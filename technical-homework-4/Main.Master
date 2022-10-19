@@ -22,7 +22,7 @@
                                 <a class="nav-link active" aria-current="page" href="/Veterinarian.aspx">Veterinarian</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/CustomerService.aspx">Cusotmer Service</a>
+                                <a class="nav-link" href="/CustomerService.aspx">Customer Service</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="/FulfillOrder.aspx">Dispensing Department</a>
