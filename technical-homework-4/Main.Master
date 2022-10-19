@@ -19,13 +19,13 @@
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="#Veterinarian.aspx">Veterinarian</a>
+                                <a class="nav-link active" aria-current="page" href="/Veterinarian.aspx">Veterinarian</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Cusotmer Service</a>
+                                <a class="nav-link" href="/CustomerService.aspx">Cusotmer Service</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Dispensing Department</a>
+                                <a class="nav-link" href="/FulfillOrder.aspx">Dispensing Department</a>
                             </li>
                         </ul>
                         <button class="btn btn-light">
