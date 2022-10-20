@@ -2,15 +2,13 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <div class="row g-3 justify-content-center mx-5">
+    <div class="row g-3 justify-content-center mx-5 webpage">
          <div class="btn-group" role="group" aria-label="Basic radio toggle button group">
             <a href="/FulfillOrder.aspx" class="btn btn-light active" aria-current="page">Fulfill Order</a>
             <a href="/MedicationRecord.aspx" class="btn btn-light">Medication Record</a>
         </div>
-        <div class="d-flex flex-wrap">
-            <button type="button" class="btn-close" aria-label="Close"></button>
-            <h3>Order #18272</h3>
-        </div>
+        <button type="button" class="btn-close" aria-label="Close"></button>
+        <h3>Order #18272</h3>
         <ul class="nav">
             <li class="nav-item">
                 <a class="nav-link" href="#">Owner</a>

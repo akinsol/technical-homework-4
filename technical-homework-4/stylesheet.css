@@ -1,0 +1,25 @@
+﻿body {
+    background-color: lightskyblue;
+}
+
+.webpage {
+    background-color: #ffffff;
+}
+
+.navbar {
+    background-color: #ffffff;
+    border-color: lightblue;
+}
+
+.customer-service div {
+    background-color: #ffffff;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+a:active {
+    text-decoration: underline;
+}
